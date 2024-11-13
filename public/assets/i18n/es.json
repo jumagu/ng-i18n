@@ -1,0 +1,36 @@
+{
+  "welcomeMessage": "¡Bienvenido, {{ firstName }}! ¿Cómo estás hoy?",
+  "pricingPage": {
+    "title": "Precios",
+    "description": "Elige el plan perfecto para tu experiencia gastronómica"
+  },
+  "basicPlanPage": {
+    "title": "Lo mejor que el dinero puede comprar",
+    "description": "Si eres un entusiasta o recién estás comenzando, este es el plan perfecto para ti"
+  },
+  "plans": {
+    "title": "Planes",
+    "texts": {
+      "perMonth": "por mes",
+      "online-ordering": "Pedidos en línea",
+      "limited-support": "Soporte limitado",
+      "unlimited-support": "Soporte 24/7",
+      "special-events": "Acceso a eventos especiales",
+      "personal-chef": "Consulta con chef personal",
+      "join": "Unirse",
+      "allPlans": "Todos los planes"
+    },
+    "basic": {
+      "name": "Plan Básico",
+      "description": "Descripción del plan básico"
+    },
+    "premium": {
+      "name": "Plan Premium",
+      "description": "Descripción del plan pro"
+    },
+    "ultimate": {
+      "name": "Plan Ultimate",
+      "description": "Descripción del plan empresarial"
+    }
+  }
+}
